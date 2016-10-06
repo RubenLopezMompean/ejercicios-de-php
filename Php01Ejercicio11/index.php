@@ -12,12 +12,12 @@ contorno hecho con asteriscos).
   <body>
     <pre>
     <?php
-    echo "<br>";
-    echo "      *<br>";
-    echo "     * *<br>";
-    echo "    *   *<br>";
-    echo "   *     *<br>";
-    echo "  *********<br>";
+      echo "<br>";
+      echo "      *<br>";
+      echo "     * *<br>";
+      echo "    *   *<br>";
+      echo "   *     *<br>";
+      echo "  *********<br>";
     ?>
     </pre>
   </body>

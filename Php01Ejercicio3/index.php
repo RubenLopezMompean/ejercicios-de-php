@@ -24,15 +24,15 @@ traducción al castellano. Las palabras deben estar distribuidas en dos columnas
   <body>
     <table>
     <?php
-    echo "<tr><td>cat</td><td>gato</td></tr>";
-    echo "<tr><td>cat</td><td>gato</td></tr>";
-    echo "<tr><td>cat</td><td>gato</td></tr>";
-    echo "<tr><td>cat</td><td>gato</td></tr>";
-    echo "<tr><td>cat</td><td>gato</td></tr>";
-    echo "<tr><td>cat</td><td>gato</td></tr>";
-    echo "<tr><td>cat</td><td>gato</td></tr>";
-    echo "<tr><td>cat</td><td>gato</td></tr>";
-    echo "<tr><td>cat</td><td>gato</td></tr>";
+      echo "<tr><td>cat</td><td>gato</td></tr>";
+      echo "<tr><td>cat</td><td>gato</td></tr>";
+      echo "<tr><td>cat</td><td>gato</td></tr>";
+      echo "<tr><td>cat</td><td>gato</td></tr>";
+      echo "<tr><td>cat</td><td>gato</td></tr>";
+      echo "<tr><td>cat</td><td>gato</td></tr>";
+      echo "<tr><td>cat</td><td>gato</td></tr>";
+      echo "<tr><td>cat</td><td>gato</td></tr>";
+      echo "<tr><td>cat</td><td>gato</td></tr>";
     ?>
     </table>
   </body>

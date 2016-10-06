@@ -17,9 +17,9 @@ Escribe un programa que muestre tu nombre por pantalla. Utiliza código PHP.
   </head>
   <body>
     <div>
-    <?php
-    echo "Hola, me llamo Rubén López"
-    ?>
+      <?php
+        echo "Hola, me llamo Rubén López"
+      ?>
     </div>
   </body>
 </html>

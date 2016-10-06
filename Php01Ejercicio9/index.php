@@ -11,9 +11,9 @@ almacenada en una variable.
   </head>
   <body>
     <?php
-    $euro = 166.386;
-    $pesetas = 500 / $euro;
-    echo "500 pesetas son : ", $pesetas, "€";
+      $euro = 166.386;
+      $pesetas = 500 / $euro;
+      echo "500 pesetas son : ",round($pesetas, 2), "€";
     ?>
   </body>
 </html>
